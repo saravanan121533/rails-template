@@ -1,0 +1,15 @@
+development:
+  adapter: postgresql
+  encoding: unicode
+  database: rails_template_development
+  pool: 5
+  username: tammam
+  password:
+
+test:
+  adapter: postgresql
+  encoding: unicode
+  database: rails_template_test
+  pool: 5
+  username: tammam
+  password:
